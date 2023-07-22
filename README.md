@@ -24,9 +24,9 @@
 <br />
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
-<p align="center">
 
-  <a href = "https://www.linkedin.com/in/hamza-herbawi-nz/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+<p align="center">
+  <a  href = "https://www.linkedin.com/in/hamza-herbawi-nz/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
  
 </p>
 
