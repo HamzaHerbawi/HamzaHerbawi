@@ -2,7 +2,7 @@
 <h1>About Me 📌</h1>
 
 - 👋 I am Hamza Herbawi
-- 🔭 I have almost 1.5+ years of experince working (freelancer and internships) as a software engineer
+- 🔭 I have almost 2 years of experince working as a software engineer
 - 🌱 I am currently focusing on learning cloud computing
   
 <br />
