@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&animation=twinkling&fontColor=006aff&height=280&section=header&text=Hi%20there%20%F0%9F%A4%B8%E2%80%8D%E2%99%82%EF%B8%8F&fontSize=70)
-<h1>About Me 📌</h1>
 
-- 👋 I am Hamza Herbawi
-- 🔭 I have almost 2 years of experince working as a software engineer
-- 🌱 I am currently focusing on learning cloud computing
-  
 <br />
 
 <h2 align="center">Quick Overview 📈</h2>
